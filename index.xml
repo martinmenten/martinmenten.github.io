@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin J. Menten on Martin J. Menten</title>
+    <link>/</link>
+    <description>Recent content in Martin J. Menten on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The impact of 2D cine MR imaging parameters on automated tumor and organ localization for MR-guided real-time adaptive radiotherapy</title>
+      <link>/publication/soi/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/soi/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MRI-guided lung SBRT: Present and future developments</title>
+      <link>/publication/lungsbrtreview/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lungsbrtreview/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study</title>
+      <link>/publication/4alg/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/4alg/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Treating locally advanced lung cancer with a 1.5 T MR-Linac – Effects of the magnetic field and irradiation geometry on conventionally fractionated and isotoxic dose-escalated radiotherapy</title>
+      <link>/publication/ereps2/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ereps2/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lung stereotactic body radiotherapy with an MR-linac – Quantifying the impact of the magnetic field and real-time tumor tracking</title>
+      <link>/publication/ereps1/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ereps1/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using dual-energy x‐ray imaging to enhance automated lung tumor tracking during real-time adaptive radiotherapy</title>
+      <link>/publication/de/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/de/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison of a multileaf collimator tracking system and a robotic treatment couch tracking system for organ motion compensation during radiotherapy</title>
+      <link>/publication/couchvsmlc/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/couchvsmlc/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

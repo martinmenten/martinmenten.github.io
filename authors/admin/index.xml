@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Martin J. Menten</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>I am a postdoctoral research fellow at the Institute of Cancer Research working on real-time adaptive radiotherapy in the group of Professor Uwe Oelfke.
+Radiotherapy treats cancer by targeted exposure of tumors to ionizing radiation. Its effect is often diminished by changes in the patient&amp;rsquo;s anatomy during dose delivery as these may lead to underdosage of the tumor and unwanted irradiation of nearby organs. My research focusses on adapting radiotherapy treatments to anatomical changes encountered during dose delivery.</description>
+    </item>
+    
+  </channel>
+</rss>

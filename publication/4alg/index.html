@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.1.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Martin J. Menten">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="**Background and purpose:** Radiotherapy guidance based on magnetic resonance imaging (MRI) is currently becoming a clinical reality. Fast 2d cine MRI sequences are expected to increase the precision of radiation delivery by facilitating tumour delineation during treatment. This study compares four auto-contouring algorithms for the task of delineating the primary tumour in six locally advanced (LA) lung cancer patients.&lt;br/&gt; **Material and methods:** Twenty-two cine MRI sequences were acquired using either a balanced steady-state free precession or a spoiled gradient echo imaging technique. Contours derived by the auto-contouring algorithms were compared against manual reference contours. A selection of eight image data sets was also used to assess the inter-observer delineation uncertainty.&lt;br/&gt; **Results:** Algorithmically derived contours agreed well with the manual reference contours (median Dice similarity index: ). Multi-template matching and deformable image registration performed significantly better than feature-driven registration and the pulse-coupled neural network (PCNN). Neither MRI sequence nor image orientation was a conclusive predictor for algorithmic performance. Motion significantly degraded the performance of the PCNN. The inter-observer variability was of the same order of magnitude as the algorithmic performance.&lt;br/&gt; **Conclusions:** Auto-contouring of tumours on cine MRI is feasible in LA lung cancer patients. Despite large variations in implementation complexity, the different algorithms all have relatively similar performance.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publication/4alg/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.e46c5d86875234f3d4d9a893b21aae0e.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Martin J. Menten">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Martin J. Menten">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/publication/4alg/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Martin J. Menten">
+  <meta property="og:url" content="/publication/4alg/">
+  <meta property="og:title" content="Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study | Martin J. Menten">
+  <meta property="og:description" content="**Background and purpose:** Radiotherapy guidance based on magnetic resonance imaging (MRI) is currently becoming a clinical reality. Fast 2d cine MRI sequences are expected to increase the precision of radiation delivery by facilitating tumour delineation during treatment. This study compares four auto-contouring algorithms for the task of delineating the primary tumour in six locally advanced (LA) lung cancer patients.&lt;br/&gt; **Material and methods:** Twenty-two cine MRI sequences were acquired using either a balanced steady-state free precession or a spoiled gradient echo imaging technique. Contours derived by the auto-contouring algorithms were compared against manual reference contours. A selection of eight image data sets was also used to assess the inter-observer delineation uncertainty.&lt;br/&gt; **Results:** Algorithmically derived contours agreed well with the manual reference contours (median Dice similarity index: ). Multi-template matching and deformable image registration performed significantly better than feature-driven registration and the pulse-coupled neural network (PCNN). Neither MRI sequence nor image orientation was a conclusive predictor for algorithmic performance. Motion significantly degraded the performance of the PCNN. The inter-observer variability was of the same order of magnitude as the algorithmic performance.&lt;br/&gt; **Conclusions:** Auto-contouring of tumours on cine MRI is feasible in LA lung cancer patients. Despite large variations in implementation complexity, the different algorithms all have relatively similar performance."><meta property="og:image" content="/publication/4alg/featured.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2017-12-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2017-12-01T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study | Martin J. Menten</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Martin J. Menten</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#banner">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/cv.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/4alg/featured_hu3bbb94a7dc88330d57348e1c3be00d60_398638_800x0_resize_q90_lanczos.jpg');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h2 itemprop="name">Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study</h2>
+
+        
+
+        
+
+
+
+<meta content="2017-12-01 00:00:00 &#43;0000 GMT" itemprop="datePublished">
+<meta content="2017-12-01 00:00:00 &#43;0000 GMT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      MF Fast</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      B Eiben</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      MJ Menten</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      A Wetscherek</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      DJ Hawkes</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      JR McClelland</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      U Oelfke</span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>December 2017</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/4Alg.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/4alg/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1016/j.radonc.2017.09.013" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/4alg/featured.jpg" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study</h1>
+
+  
+
+  
+
+
+
+<meta content="2017-12-01 00:00:00 &#43;0000 GMT" itemprop="datePublished">
+<meta content="2017-12-01 00:00:00 &#43;0000 GMT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      MF Fast</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      B Eiben</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      MJ Menten</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      A Wetscherek</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      DJ Hawkes</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      JR McClelland</span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      U Oelfke</span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>December 2017</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/4Alg.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/4alg/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1016/j.radonc.2017.09.013" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text"><strong>Background and purpose:</strong> Radiotherapy guidance based on magnetic resonance imaging (MRI) is currently becoming a clinical reality. Fast 2d cine MRI sequences are expected to increase the precision of radiation delivery by facilitating tumour delineation during treatment. This study compares four auto-contouring algorithms for the task of delineating the primary tumour in six locally advanced (LA) lung cancer patients.<br/> <strong>Material and methods:</strong> Twenty-two cine MRI sequences were acquired using either a balanced steady-state free precession or a spoiled gradient echo imaging technique. Contours derived by the auto-contouring algorithms were compared against manual reference contours. A selection of eight image data sets was also used to assess the inter-observer delineation uncertainty.<br/> <strong>Results:</strong> Algorithmically derived contours agreed well with the manual reference contours (median Dice similarity index: ). Multi-template matching and deformable image registration performed significantly better than feature-driven registration and the pulse-coupled neural network (PCNN). Neither MRI sequence nor image orientation was a conclusive predictor for algorithmic performance. Motion significantly degraded the performance of the PCNN. The inter-observer variability was of the same order of magnitude as the algorithmic performance.<br/> <strong>Conclusions:</strong> Auto-contouring of tumours on cine MRI is feasible in LA lung cancer patients. Despite large variations in implementation complexity, the different algorithms all have relatively similar performance.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+
+            
+            
+            Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>Radiotherapy and Oncology</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p>&nbsp;</p>
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.76a41a243fcea75defe7d35a07d3aaa3.js"></script>
+
+  </body>
+</html>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Herrmann on Martin J. Menten</title>
+    <link>/authors/c-herrmann/</link>
+    <description>Recent content in C Herrmann on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/c-herrmann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of a multileaf collimator tracking system and a robotic treatment couch tracking system for organ motion compensation during radiotherapy</title>
+      <link>/publication/couchvsmlc/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/couchvsmlc/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

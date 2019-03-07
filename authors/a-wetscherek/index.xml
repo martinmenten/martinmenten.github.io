@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Wetscherek on Martin J. Menten</title>
+    <link>/authors/a-wetscherek/</link>
+    <description>Recent content in A Wetscherek on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/a-wetscherek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The impact of 2D cine MR imaging parameters on automated tumor and organ localization for MR-guided real-time adaptive radiotherapy</title>
+      <link>/publication/soi/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/soi/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>MRI-guided lung SBRT: Present and future developments</title>
+      <link>/publication/lungsbrtreview/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lungsbrtreview/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study</title>
+      <link>/publication/4alg/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/4alg/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

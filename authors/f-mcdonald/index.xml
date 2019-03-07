@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F McDonald on Martin J. Menten</title>
+    <link>/authors/f-mcdonald/</link>
+    <description>Recent content in F McDonald on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/f-mcdonald/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Treating locally advanced lung cancer with a 1.5 T MR-Linac – Effects of the magnetic field and irradiation geometry on conventionally fractionated and isotoxic dose-escalated radiotherapy</title>
+      <link>/publication/ereps2/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ereps2/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Lung stereotactic body radiotherapy with an MR-linac – Quantifying the impact of the magnetic field and real-time tumor tracking</title>
+      <link>/publication/ereps1/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ereps1/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>
