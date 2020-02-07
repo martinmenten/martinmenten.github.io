@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/odr/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/soi/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -77,7 +85,16 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a-dunlop/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -95,7 +112,25 @@
     <url>
     
       <loc>/authors/a-wetscherek/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ac-tree/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/au-pathmanathan/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -200,8 +235,26 @@
     
     <url>
     
+      <loc>/authors/j-bertholet/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/j-wilbert/</loc>
       <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jk-mohajer/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -227,6 +280,15 @@
     
     <url>
     
+      <loc>/authors/m-moreau/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/mf-fast/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -237,7 +299,7 @@
     <url>
     
       <loc>/authors/mj-menten/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -246,7 +308,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -255,7 +317,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -264,7 +326,25 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/r-nilawar/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-marshall/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -272,7 +352,7 @@
     <url>
     
       <loc>/authors/s-nill/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -289,7 +369,7 @@
     <url>
     
       <loc>/authors/u-oelfke/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
