@@ -6,14 +6,54 @@
     <description>Recent content in Martin J. Menten on Martin J. Menten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A skeletonization algorithm for gradient-based optimization</title>
+      <link>/publication/skel/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/skel/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clustering disease trajectories in contrastive feature space for biomarker proposal in age-related macular degeneration</title>
+      <link>/publication/trajectories/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/trajectories/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best of both worlds: Multimodal contrastive learning with tabular and imaging data</title>
+      <link>/publication/tabularcontrastive/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tabularcontrastive/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physiology-based simulation of the retinal vasculature enables annotation-free segmentation of OCT angiographs</title>
+      <link>/publication/octaseg1/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/octaseg1/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automatic reconstruction of the delivered dose of the day using MR-linac treatment log files and online MR imaging</title>
       <link>/publication/odr/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/odr/</guid>
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -21,19 +61,9 @@
     </item>
     
     <item>
-      <title>The impact of 2D cine MR imaging parameters on automated tumor and organ localization for MR-guided real-time adaptive radiotherapy</title>
-      <link>/publication/soi/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/soi/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MRI-guided lung SBRT: Present and future developments</title>
       <link>/publication/lungsbrtreview/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/lungsbrtreview/</guid>
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -43,7 +73,7 @@
     <item>
       <title>Tumour auto-contouring on 2d cine MRI for locally advanced lung cancer: A comparative study</title>
       <link>/publication/4alg/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/4alg/</guid>
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -51,41 +81,11 @@
     </item>
     
     <item>
-      <title>Treating locally advanced lung cancer with a 1.5 T MR-Linac – Effects of the magnetic field and irradiation geometry on conventionally fractionated and isotoxic dose-escalated radiotherapy</title>
-      <link>/publication/ereps2/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ereps2/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Lung stereotactic body radiotherapy with an MR-linac – Quantifying the impact of the magnetic field and real-time tumor tracking</title>
       <link>/publication/ereps1/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/ereps1/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using dual-energy x‐ray imaging to enhance automated lung tumor tracking during real-time adaptive radiotherapy</title>
-      <link>/publication/de/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/de/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparison of a multileaf collimator tracking system and a robotic treatment couch tracking system for organ motion compensation during radiotherapy</title>
-      <link>/publication/couchvsmlc/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/couchvsmlc/</guid>
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </description>
     </item>

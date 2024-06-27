@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Hager on Martin J. Menten</title>
+    <link>/authors/p-hager/</link>
+    <description>Recent content in P Hager on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/p-hager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best of both worlds: Multimodal contrastive learning with tabular and imaging data</title>
+      <link>/publication/tabularcontrastive/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tabularcontrastive/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

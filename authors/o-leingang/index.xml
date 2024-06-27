@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O Leingang on Martin J. Menten</title>
+    <link>/authors/o-leingang/</link>
+    <description>Recent content in O Leingang on Martin J. Menten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/o-leingang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clustering disease trajectories in contrastive feature space for biomarker proposal in age-related macular degeneration</title>
+      <link>/publication/trajectories/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/trajectories/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

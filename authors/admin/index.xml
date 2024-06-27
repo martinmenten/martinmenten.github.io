@@ -6,7 +6,7 @@
     <description>Recent content in admin on Martin J. Menten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; 2024</copyright>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>I recently joined the BioMedIA group at Imperial College London as a postdoctoral researcher. Working together with Professor Daniel Rueckert, I am exploring the use of deep learning to advance the understanding and diagnosis of age-related macular degeneration, the leading cause of blindness in the elderly.
-Previously, I received my PhD in physics from the Institute of Cancer Research in 2018. In the team of Professor Uwe Oelfke, I researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.</description>
+      <description>I am an independent research group leader at the Technical University Munich. My group is funded by the Emmy Noether Programme of the German Research Foundation and is hosted at the Institute for AI in Healthcare and Medicine. I also have a secondary affiliation with Imperial College London.
+My research focuses development and application of machine learning algorithms for the fields of medical imaging and ophthalmology. I am particularly interested in weakly and self-supervised learning to address data scarcity in healthcare and the integration of multimodal clinical data with medical images.</description>
     </item>
     
   </channel>

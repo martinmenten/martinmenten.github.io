@@ -4,16 +4,40 @@
     
     <url>
     
-      <loc>/publication/odr/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <loc>/publication/skel/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/soi/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <loc>/publication/trajectories/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/tabularcontrastive/</loc>
+      <lastmod>2022-11-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/octaseg1/</loc>
+      <lastmod>2022-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/odr/</loc>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -21,7 +45,7 @@
     <url>
     
       <loc>/publication/lungsbrtreview/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -29,15 +53,7 @@
     <url>
     
       <loc>/publication/4alg/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ereps2/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -45,23 +61,7 @@
     <url>
     
       <loc>/publication/ereps1/</loc>
-      <lastmod>2016-06-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/de/</loc>
-      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/couchvsmlc/</loc>
-      <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -76,7 +76,16 @@
     <url>
     
       <loc>/authors/-jr-mcclelland/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -85,7 +94,16 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/a-dima/</loc>
+      <lastmod>2022-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -94,16 +112,7 @@
     <url>
     
       <loc>/authors/a-dunlop/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/a-krau%C3%9F/</loc>
-      <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -112,7 +121,7 @@
     <url>
     
       <loc>/authors/a-wetscherek/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -121,7 +130,16 @@
     <url>
     
       <loc>/authors/ac-tree/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/aj-lotery/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -130,7 +148,7 @@
     <url>
     
       <loc>/authors/au-pathmanathan/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,7 +165,7 @@
     <url>
     
       <loc>/authors/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -156,7 +174,7 @@
     <url>
     
       <loc>/authors/b-eiben/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -164,8 +182,8 @@
     
     <url>
     
-      <loc>/authors/c-herrmann/</loc>
-      <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+      <loc>/authors/b-knier/</loc>
+      <lastmod>2022-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -173,8 +191,17 @@
     
     <url>
     
-      <loc>/authors/cm-rank/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <loc>/authors/bh-menze/</loc>
+      <lastmod>2022-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/c-holmes/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -183,7 +210,7 @@
     <url>
     
       <loc>/authors/cp-kamerling/</loc>
-      <lastmod>2016-06-01T00:00:00+01:00</lastmod>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,8 +226,8 @@
     
     <url>
     
-      <loc>/authors/dj-collins/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <loc>/authors/d-rueckert/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -209,7 +236,7 @@
     <url>
     
       <loc>/authors/dj-hawkes/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,7 +245,7 @@
     <url>
     
       <loc>/authors/f-mcdonald/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2016-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -226,8 +253,26 @@
     
     <url>
     
-      <loc>/authors/he-bainbridge/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+      <loc>/authors/h-bogunovi%C4%87/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hpn-scholl/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/i-ezhov/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -236,7 +281,7 @@
     <url>
     
       <loc>/authors/j-bertholet/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -244,8 +289,17 @@
     
     <url>
     
-      <loc>/authors/j-wilbert/</loc>
-      <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+      <loc>/authors/ja-schnabel/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jc-paetzold/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -254,25 +308,7 @@
     <url>
     
       <loc>/authors/jk-mohajer/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/m-guckenberger/</loc>
-      <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/m-kachelrie%C3%9F/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -281,7 +317,16 @@
     <url>
     
       <loc>/authors/m-moreau/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m-probst/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -290,7 +335,7 @@
     <url>
     
       <loc>/authors/mf-fast/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -299,7 +344,7 @@
     <url>
     
       <loc>/authors/mj-menten/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -308,7 +353,34 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/o-leingang/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-anders/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-hager/</loc>
+      <lastmod>2022-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,7 +389,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,7 +398,25 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/r-holland/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/r-kaye/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -334,7 +424,7 @@
     <url>
     
       <loc>/authors/r-nilawar/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -343,7 +433,7 @@
     <url>
     
       <loc>/authors/s-marshall/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -352,7 +442,34 @@
     <url>
     
       <loc>/authors/s-nill/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-riedl/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-shit/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-sivaprasad/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -369,7 +486,25 @@
     <url>
     
       <loc>/authors/u-oelfke/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/u-schmidt-erfurth/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/va-zimmer/</loc>
+      <lastmod>2023-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

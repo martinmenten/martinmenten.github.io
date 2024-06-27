@@ -6,8 +6,8 @@
     <description>Recent content in Authors on Martin J. Menten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,34 +15,34 @@
     <item>
       <title> JR McClelland</title>
       <link>/authors/-jr-mcclelland/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/authors/-jr-mcclelland/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Dima</title>
+      <link>/authors/a-dima/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/a-dima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Dunlop</title>
       <link>/authors/a-dunlop/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/a-dunlop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Krauß</title>
-      <link>/authors/a-krau%C3%9F/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/a-krau%C3%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Wetscherek</title>
       <link>/authors/a-wetscherek/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/a-wetscherek/</guid>
       <description></description>
@@ -51,16 +51,25 @@
     <item>
       <title>AC Tree</title>
       <link>/authors/ac-tree/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/ac-tree/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>AJ Lotery</title>
+      <link>/authors/aj-lotery/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/aj-lotery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AU Pathmanathan</title>
       <link>/authors/au-pathmanathan/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/au-pathmanathan/</guid>
       <description></description>
@@ -69,52 +78,61 @@
     <item>
       <title>B Eiben</title>
       <link>/authors/b-eiben/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/authors/b-eiben/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C Herrmann</title>
-      <link>/authors/c-herrmann/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <title>B Knier</title>
+      <link>/authors/b-knier/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
       
-      <guid>/authors/c-herrmann/</guid>
+      <guid>/authors/b-knier/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CM Rank</title>
-      <link>/authors/cm-rank/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <title>BH Menze</title>
+      <link>/authors/bh-menze/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
       
-      <guid>/authors/cm-rank/</guid>
+      <guid>/authors/bh-menze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Holmes</title>
+      <link>/authors/c-holmes/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/c-holmes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CP Kamerling</title>
       <link>/authors/cp-kamerling/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
       <guid>/authors/cp-kamerling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DJ Collins</title>
-      <link>/authors/dj-collins/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <title>D Rueckert</title>
+      <link>/authors/d-rueckert/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
       
-      <guid>/authors/dj-collins/</guid>
+      <guid>/authors/d-rueckert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DJ Hawkes</title>
       <link>/authors/dj-hawkes/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/authors/dj-hawkes/</guid>
       <description></description>
@@ -123,79 +141,97 @@
     <item>
       <title>F McDonald</title>
       <link>/authors/f-mcdonald/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
       <guid>/authors/f-mcdonald/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HE Bainbridge</title>
-      <link>/authors/he-bainbridge/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <title>H Bogunović</title>
+      <link>/authors/h-bogunovi%C4%87/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
       
-      <guid>/authors/he-bainbridge/</guid>
+      <guid>/authors/h-bogunovi%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPN Scholl</title>
+      <link>/authors/hpn-scholl/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/hpn-scholl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Ezhov</title>
+      <link>/authors/i-ezhov/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/i-ezhov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J Bertholet</title>
       <link>/authors/j-bertholet/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/j-bertholet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J Wilbert</title>
-      <link>/authors/j-wilbert/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <title>JA Schnabel</title>
+      <link>/authors/ja-schnabel/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
       
-      <guid>/authors/j-wilbert/</guid>
+      <guid>/authors/ja-schnabel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JC Paetzold</title>
+      <link>/authors/jc-paetzold/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/jc-paetzold/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JK Mohajer</title>
       <link>/authors/jk-mohajer/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/jk-mohajer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>M Guckenberger</title>
-      <link>/authors/m-guckenberger/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/m-guckenberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Kachelrieß</title>
-      <link>/authors/m-kachelrie%C3%9F/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/m-kachelrie%C3%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M Moreau</title>
       <link>/authors/m-moreau/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/m-moreau/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>M Probst</title>
+      <link>/authors/m-probst/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/m-probst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MF Fast</title>
       <link>/authors/mf-fast/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/authors/mf-fast/</guid>
       <description></description>
@@ -204,16 +240,61 @@
     <item>
       <title>MJ Menten</title>
       <link>/authors/mj-menten/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
       
       <guid>/authors/mj-menten/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>O Leingang</title>
+      <link>/authors/o-leingang/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/o-leingang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Anders</title>
+      <link>/authors/p-anders/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/p-anders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Hager</title>
+      <link>/authors/p-hager/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/p-hager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Holland</title>
+      <link>/authors/r-holland/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/r-holland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Kaye</title>
+      <link>/authors/r-kaye/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/r-kaye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Nilawar</title>
       <link>/authors/r-nilawar/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/r-nilawar/</guid>
       <description></description>
@@ -222,7 +303,7 @@
     <item>
       <title>S Marshall</title>
       <link>/authors/s-marshall/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/s-marshall/</guid>
       <description></description>
@@ -231,18 +312,63 @@
     <item>
       <title>S Nill</title>
       <link>/authors/s-nill/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/s-nill/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>S Riedl</title>
+      <link>/authors/s-riedl/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/s-riedl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Shit</title>
+      <link>/authors/s-shit/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/s-shit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Sivaprasad</title>
+      <link>/authors/s-sivaprasad/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/s-sivaprasad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>U Oelfke</title>
       <link>/authors/u-oelfke/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/authors/u-oelfke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U Schmidt-Erfurth</title>
+      <link>/authors/u-schmidt-erfurth/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/u-schmidt-erfurth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VA Zimmer</title>
+      <link>/authors/va-zimmer/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/va-zimmer/</guid>
       <description></description>
     </item>
     
